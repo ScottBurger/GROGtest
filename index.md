@@ -1,7 +1,7 @@
 # Links
-* [Episodes](https://scottburger.github.io/GROGtest/about.html)
-* About
-* Rankings
+* [Episodes](https://scottburger.github.io/GROGtest/episodes.html)
+* [About](https://scottburger.github.io/GROGtest/about.html)
+* [Rankings](https://scottburger.github.io/GROGtest/rankings.html)
 
 ## Welcome to GitHub Pages
 
