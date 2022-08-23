@@ -3,6 +3,16 @@
 * [About](https://scottburger.github.io/GROGtest/about.html)
 * [Rankings](https://scottburger.github.io/GROGtest/rankings.html)
 
+
+* Subscribe
+** RSS
+** Spotify
+** iTunes
+** Youtube
+
+asdfadfasf
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ScottBurger/GROGtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
