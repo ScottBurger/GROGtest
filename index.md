@@ -2,12 +2,15 @@
 - [Episodes](https://scottburger.github.io/GROGtest/episodes.html)
 - [About](https://scottburger.github.io/GROGtest/about.html)
 - [Rankings](https://scottburger.github.io/GROGtest/rankings.html)
+- [Patreon](https://scottburger.github.io/GROGtest/patreon.html)
 
 # Subscribe
 - RSS
 - Spotify
 - iTunes
 - Youtube
+
+
 
 asdfadfasf
 
