@@ -1,14 +1,13 @@
 # Links
-* [Episodes](https://scottburger.github.io/GROGtest/episodes.html)
-* [About](https://scottburger.github.io/GROGtest/about.html)
-* [Rankings](https://scottburger.github.io/GROGtest/rankings.html)
+- [Episodes](https://scottburger.github.io/GROGtest/episodes.html)
+- [About](https://scottburger.github.io/GROGtest/about.html)
+- [Rankings](https://scottburger.github.io/GROGtest/rankings.html)
 
-
-* Subscribe
- * RSS
- * Spotify
- * iTunes
- * Youtube
+# Subscribe
+- RSS
+- Spotify
+- iTunes
+- Youtube
 
 asdfadfasf
 
