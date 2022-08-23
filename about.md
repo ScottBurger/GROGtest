@@ -1,7 +1,7 @@
 # Hosts
-- Scott
-- Will
-- Colin
+- Scott Burger
+- Will Wright
+- Colin Smith
 
 # Frequent Guests
 - Woody
