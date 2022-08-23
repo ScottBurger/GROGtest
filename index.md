@@ -1,5 +1,5 @@
 # Links
-* Episodes
+* [Episodes](https://github.com/ScottBurger/GROGtest/about]
 * About
 * Rankings
 
