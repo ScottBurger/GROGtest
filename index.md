@@ -5,10 +5,10 @@
 
 
 * Subscribe
-** RSS
-** Spotify
-** iTunes
-** Youtube
+ * RSS
+ * Spotify
+ * iTunes
+ * Youtube
 
 asdfadfasf
 
