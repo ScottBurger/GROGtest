@@ -1,1 +1,1 @@
-Email us at `going-rogue-gaming` at `gmail.com`
+Email us at `some-podcast-email-to-be-determined` at `gmail.com`
