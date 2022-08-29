@@ -3,6 +3,6 @@
 - Will Wright
 - Colin Smith
 
-# Frequent Guests
+## Frequent Guests
 - Woody
 - Andrew
