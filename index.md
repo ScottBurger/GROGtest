@@ -9,6 +9,7 @@ Each week, hosts Scott Burger, Will Wright, and Colin Smith deep dive one of the
 - [Episodes](https://scottburger.github.io/GROGtest/episodes.html)
 - [Rankings](https://scottburger.github.io/GROGtest/rankings.html)
 - [Patreon](https://scottburger.github.io/GROGtest/patreon.html)
+- [Contact Us](https://scottburger.github.io/GROGtest/contact.html)
 
 # Subscribe
 - RSS
